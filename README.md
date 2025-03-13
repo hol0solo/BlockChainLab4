@@ -17,7 +17,7 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка-на-репозиторий>
+   git clone https://github.com/hol0solo/BlockChainLab4
    cd <название-папки>
    ```
 2. Установите зависимости (если потребуются):
@@ -28,7 +28,7 @@
 ## Использование
 Запустите программу с помощью Python:
 ```bash
-python ataix_api_client.py
+python app.py
 ```
 
 ## API документация
