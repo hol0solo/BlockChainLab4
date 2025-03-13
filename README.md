@@ -22,7 +22,7 @@
    ```
 2. Установите зависимости (если потребуются):
    ```bash
-   pip install requests
+   pip install requirements.txt
    ```
 
 ## Использование
